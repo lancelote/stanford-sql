@@ -4,6 +4,8 @@ My code for [Databases: Relational Databases and SQL][1] Stanford course
 
 ## Database Setup
 
+Test database to run queries against
+
 - [Test database schema](vendor/schema.sql)
 - [Test database data](vendor/data.sql)
 
